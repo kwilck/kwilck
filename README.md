@@ -8,7 +8,7 @@ I'm a passionate Python developer from Germany with a keen interest in cybersecu
 - 🔭 I’m currently working on [ThreatFeed HQ](https://github.com/kwilck/ThreatIntelligence)  
   
 
-- 👨‍💻 All of my projects are available at [https://github.com/kw-soft](https://github.com/kwilck)  
+- 👨‍💻 All of my projects are available at [https://github.com/kwilck](https://github.com/kwilck)  
   
 
 - 📫 How to reach me **kevin@wilck.io**  
