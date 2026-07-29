@@ -5,7 +5,7 @@
 I'm a passionate Python developer from Germany with a keen interest in cybersecurity. I love coding, staying up-to-date with the latest security trends, and exploring ways to build more secure software. In addition, I work as an instructor for IT specialists in system integration, where I help shape the next generation of professionals.</div>  
   
 
-- 🔭 I’m currently working on [ThreatFeed HQ](https://github.com/kwilck/ThreatIntelligence)  
+- 🔭 I’m currently working on [cvestream.io](https://cvestream.io)  
   
 
 - 👨‍💻 All of my projects are available at [https://github.com/kwilck](https://github.com/kwilck)  
